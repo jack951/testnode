@@ -1,0 +1,23 @@
+{
+  "name": "world1",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "testtttt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "add late"
+  },
+  "keywords": [
+    "testas"
+  ],
+  "author": "Jack951",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "request": "^2.79.0"
+  }
+}
